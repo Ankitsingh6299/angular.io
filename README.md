@@ -6,6 +6,7 @@
 
 # Angular.io
 ----------
+Angular.io. Angular (commonly referred to as "Angular 2+" or "Angular v2 and above") is a TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.
 
 [![Build Status][travis-badge]][travis-badge-url]
 
